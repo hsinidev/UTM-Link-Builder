@@ -1,0 +1,5 @@
+{
+  "name": "UTM Link Builder",
+  "description": "A modern, client-side tool to instantly generate clean, standardized, and trackable marketing URLs by appending UTM parameters (Source, Medium, Campaign, Term, Content) to a base URL.",
+  "requestFramePermissions": []
+}
