@@ -3,7 +3,7 @@
 **The ultimate tool for savvy digital marketers to generate clean, standardized, and trackable marketing URLs.**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-doodax.com-2ea44f)](https://doodax.com)
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-doodax.com-2ea44f)](https://doodax.com/tools/utm-link-builder/index.html)
 
 ---
 
